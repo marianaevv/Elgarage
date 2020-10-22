@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ae323395.chunk.css",
+    "main.js": "/static/js/main.4588999c.chunk.js",
+    "main.js.map": "/static/js/main.4588999c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f99c9fce.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f99c9fce.js.map",
+    "static/css/2.11829350.chunk.css": "/static/css/2.11829350.chunk.css",
+    "static/js/2.6111baf0.chunk.js": "/static/js/2.6111baf0.chunk.js",
+    "static/js/2.6111baf0.chunk.js.map": "/static/js/2.6111baf0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2f0528887342fd7874cc324ed6b1a8ee.js": "/precache-manifest.2f0528887342fd7874cc324ed6b1a8ee.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/static/css/2.11829350.chunk.css.map",
+    "static/css/main.ae323395.chunk.css.map": "/static/css/main.ae323395.chunk.css.map",
+    "static/js/2.6111baf0.chunk.js.LICENSE.txt": "/static/js/2.6111baf0.chunk.js.LICENSE.txt",
+    "static/media/ABS.jpg": "/static/media/ABS.9b9a5222.jpg",
+    "static/media/bombasAgua.jpg": "/static/media/bombasAgua.1d53490f.jpg",
+    "static/media/cambiosAceite.jpg": "/static/media/cambiosAceite.c17792ee.jpg",
+    "static/media/diagnosticoPorComp.jpg": "/static/media/diagnosticoPorComp.940656aa.jpg",
+    "static/media/frenos.jpg": "/static/media/frenos.59ec5b71.jpg",
+    "static/media/fuelInjection.jpg": "/static/media/fuelInjection.ec9c54f6.jpg",
+    "static/media/fugasAceite.jpg": "/static/media/fugasAceite.7a8c91f5.jpg",
+    "static/media/Login.css": "/static/media/login-background.3b9ef586.jpg",
+    "static/media/logo.svg": "/static/media/logo.ee7cd8ed.svg",
+    "static/media/sistemaElectrico.png": "/static/media/sistemaElectrico.9f81f2ef.png",
+    "static/media/sistemasCarga.jpg": "/static/media/sistemasCarga.1dd1d9c4.jpg",
+    "static/media/suspension.jpg": "/static/media/suspension.5e837550.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f99c9fce.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.6111baf0.chunk.js",
+    "static/css/main.ae323395.chunk.css",
+    "static/js/main.4588999c.chunk.js"
+  ]
+}

@@ -1,0 +1,26 @@
+.contacto-header{
+    color: #FFB600;
+    margin-top: 10px;
+}
+.contacto-container{
+    
+    margin-top: 15px;
+}
+.contacto-form{
+    margin-top: 10px;
+    text-align: left;
+}
+.map-responsive{
+    margin-top: 15px;
+    overflow:hidden;
+    padding-bottom:130%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    bottom:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
