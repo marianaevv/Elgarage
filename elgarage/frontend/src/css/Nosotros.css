@@ -1,0 +1,33 @@
+.jumbo{
+    background-image: linear-gradient(#fff8, transparent), url("../assets/about.jpg");
+
+
+
+}
+.jumbo-text{
+font-weight: bold;
+    color:white;
+}
+.nosotros-text{
+    text-align: justify;
+    margin-top: 50px;
+    color:black;
+}
+.nosotros-img{
+    position: relative;
+
+}
+.logoNosotros{
+    margin-bottom:40px;
+}
+.listaNosotros{
+    list-style: none;
+}
+.valores{
+    font-weight: bold;
+    color:black;
+    text-align: center;
+}
+.listaNosotros > li>h4{
+    color:black;
+}

@@ -1,0 +1,41 @@
+.FormCitas{
+    align-items:center;
+    margin-left: 150px;
+    margin-top:60px;
+    margin-right:150px;
+  /*  border:2px solid blue;*/
+}
+.divCalendar{
+    display:flex;
+    justify-content: center;
+}
+
+.btnCitas{
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 20px;
+}
+.slotList{
+  list-style: none;
+  color:black !important;
+
+}
+.slotList:hover{
+  font-weight: bold;
+  
+}
+.slotLink{
+  color: black;
+  font-size:18px;
+}
+.slotLink:hover{
+  text-decoration: none;
+
+}
+.labelSelectedSlot{
+  font-size: 18px ;
+  font-weight: bold;
+}
+.formCalendar{
+  margin-top:140px;
+}
